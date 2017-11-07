@@ -1,4 +1,4 @@
-Carolina Cerrudo Curso
+Carolina Cerrudo Curso 2017
 
 # HOgit
 Repositorio con ejercicios para practicar comandos básicos de git
